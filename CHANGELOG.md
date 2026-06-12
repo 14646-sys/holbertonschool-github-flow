@@ -1,4 +1,4 @@
-## Unreleased
+## v1.1.0
 
    - <bullet describing the introduction and history updates>
 Introduction has been merged with main after a PR then the branch has been deleted.
